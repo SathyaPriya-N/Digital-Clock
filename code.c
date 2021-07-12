@@ -1,8 +1,8 @@
 #include<stdio.h>
-
+#include<time.h>
 int main()
 {
-int h,m,s;
+int h=0,m=0,s=0;//hour,min,sec
 int d=1000;
 printf("set time:\n");
 scanf("%d%d%d",&h,&m,&s);

@@ -30,6 +30,14 @@ h=1;
 }
 printf("\n Clock :");
 printf("\n %02d:%02d:%02d",h,m,s);
+  if(h<12)
+{
+printf("AM");
+}
+else
+{
+printf("PM");
+}
 Sleep(d);
 system("cls");
 }

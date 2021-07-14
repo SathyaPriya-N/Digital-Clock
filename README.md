@@ -11,3 +11,6 @@ This is a simple project, using c programming the digital clock is generated whi
 
 In this ,the alarm clock is created with the help of sound functions like Beep(),Sound(),nosound(),delay() & Sleep()._
 Alarm time is set with our digital clocl.When the time of digital clock concide with the alarm clcok it gives us an beep sound.
+
+
+![Screenshot (43)](https://user-images.githubusercontent.com/74854579/125558058-b4eb670d-1d79-489b-8b6a-5003fee8facf.png)
